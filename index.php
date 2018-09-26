@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Wilbor Miranda</title>
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="Wilbor Miradanda">
 
     <!-- mobile specific metas
     ================================================== -->
@@ -85,7 +85,7 @@
                     <ul class="header__nav">
                         <li class="current"><a href="index.html" title="">Home</a></li>
                         <li class="has-children">
-                            <a href="#0" title="">Categories</a>
+                            <a href="#0" title="">Categorias</a>
                             <ul class="sub-menu">
                             <li><a href="category.html">Lifestyle</a></li>
                             <li><a href="category.html">Health</a></li>
@@ -104,9 +104,8 @@
                             <li><a href="single-standard.html">Standard Post</a></li>
                             </ul>
                         </li>
-                        <li><a href="style-guide.html" title="">Styles</a></li>
-                        <li><a href="about.html" title="">About</a></li>
-                        <li><a href="contact.html" title="">Contact</a></li>
+                        <li><a href="about.html" title="">Acerca De</a></li>
+                        <li><a href="contact.html" title="">Contactame</a></li>
                     </ul> <!-- end header__nav -->
 
                     <a href="#0" title="Close Menu" class="header__overlay-close close-mobile-menu">Close</a>
